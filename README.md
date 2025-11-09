@@ -5,7 +5,7 @@
 
 ## 检测与验证流程
 
-1. 打开检测页（https://mao.fan/mynat），点击“检测 NAT 类型”。
+1. 打开检测页（[https://mao.fan/mynat](https://mao.fan/mynat)），点击“检测 NAT 类型”。
 2. 若结果为 NAT3/NAT4，可再使用 pystun3、NatTypeTester 等工具做交叉验证。
 3. 不同平台无需安装任何客户端，直接通过浏览器即可访问。
 
